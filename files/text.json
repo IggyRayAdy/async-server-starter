@@ -1,0 +1,34 @@
+{
+    "name": "Random Person",
+    "age": 27,
+    "gender": "female",
+    "address": {
+        "street": "123 Main St",
+        "city": "Anytown",
+        "state": "CA",
+        "zip": "12345"
+    },
+    "phone": {
+        "home": "(123) 456-7890",
+        "mobile": "(987) 654-3210"
+    },
+    "email": "randomperson@example.com",
+    "interests": [
+        "hiking",
+        "reading",
+        "cooking",
+        "traveling"
+    ],
+    "education": [
+        {
+            "degree": "Bachelor of Science",
+            "major": "Computer Science",
+            "school": "University of California, Los Angeles"
+        },
+        {
+            "degree": "Master of Business Administration",
+            "major": "Marketing",
+            "school": "Stanford University"
+        }
+    ]
+}
